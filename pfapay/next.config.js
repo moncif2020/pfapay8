@@ -8,11 +8,11 @@ const nextConfig = {
   trailingSlash: false,
   swcMinify: true,
   images: {
-    domains: [],
+    domains: ['avatars.githubusercontent.com', 'example.com'],
   },
   experimental: {
-    optimizeCss: true,
   }
 };
 
 module.exports = withNextIntl(nextConfig);
+
