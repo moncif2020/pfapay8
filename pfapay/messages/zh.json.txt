@@ -1,0 +1,6 @@
+{
+  "HomePage": {
+    "description": "安全的全球数字支付平台",
+    "success_message": "发布成功！"
+  }
+}

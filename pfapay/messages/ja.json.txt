@@ -1,0 +1,6 @@
+{
+  "HomePage": {
+    "description": "安全でグローバルなデジタル決済プラットフォーム",
+    "success_message": "公開に成功しました！"
+  }
+}

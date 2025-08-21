@@ -1,0 +1,6 @@
+{
+  "HomePage": {
+    "description": "Plateforme de Paiement Numérique Sécurisée et Mondiale",
+    "success_message": "Publié avec Succès!"
+  }
+}

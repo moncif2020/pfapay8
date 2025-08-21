@@ -1,0 +1,6 @@
+{
+  "HomePage": {
+    "description": "Secure and Global Digital Payment Platform",
+    "success_message": "Successfully Published!"
+  }
+}

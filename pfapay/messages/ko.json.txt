@@ -1,0 +1,6 @@
+{
+  "HomePage": {
+    "description": "안전하고 글로벌한 디지털 결제 플랫폼",
+    "success_message": "성공적으로 게시되었습니다!"
+  }
+}
